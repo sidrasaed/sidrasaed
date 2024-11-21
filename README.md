@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidrasaed
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning React and Front-end web development.
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning c-Sharp and unity game development.
 
 
 <!---
